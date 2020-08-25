@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# nextlevelweek2
 2º Next Level Week - Rocketseat
 =======
 ![next-level-week](https://user-images.githubusercontent.com/54913406/91224329-545ed380-e6f8-11ea-94f3-c3ac94e95fb5.jpg)
@@ -28,13 +26,13 @@
  - Tabelas - Entidades - Relações: Colunas e linhas
 
 ##Back-end
-** - Responsabilidades**
+ - Responsabilidades
     • Preparar os pedidos ( Regras de Negócio )
     • Receber pedidos do cliente
     • Enviar respostas
     • Trabalhando com dados da aplicação
 
-** - Estrutura de pastas do projeto**
+ - Estrutura de pastas do projeto
     • Criação de servidor: Instalação dos módulos
     • Configuração do servidor: Criar e iniciar, página inicial, arquivos estáticos
     • Rotas da aplicação:
@@ -49,8 +47,7 @@
         - Usando Nunjucks: include, variables, extends, block, if, for
         - Instalação da extensão nunjucks-template nas extensões VSCode
 
-** - Dados**
+ - Dados
     • Enviando dados
     • Recebendo dados
     • Persistindo (armazenando) em banco de dados
->>>>>>> Conteúdo da imersão Rocketseat Next Level Week 2
