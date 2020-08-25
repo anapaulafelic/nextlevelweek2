@@ -1,8 +1,8 @@
-2º Next Level Week - Rocketseat
+# 2º Next Level Week - Rocketseat 2020
 =======
 ![next-level-week](https://user-images.githubusercontent.com/54913406/91224329-545ed380-e6f8-11ea-94f3-c3ac94e95fb5.jpg)
 
-# 2º Next Level Week - Rocketseat 2020
+
 *Esse foi o resultado da minha participação na imersão Next Level Rocketseat.*
 
 ## Tecnologias
