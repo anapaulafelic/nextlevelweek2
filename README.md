@@ -5,7 +5,7 @@
 #2º Next Level Week - Rocketseat 2020
 *Esse foi o resultado da minha participação na imersão Next Level Rocketseat.*
 
-##Tecnologias
+#Tecnologias
 • Javascript
 • Node.js (https://nodejs.org)
 • Git Bash (https://gitforwindows.org)
@@ -13,19 +13,19 @@
 • SQLite
 • VSCode
 
-##Front-end
+#Front-end
  - HTML, CSS, Javascript
  - Configurações do ambiente de desenvolvimento
  - Ferramentas: o Inspect do Navegador, VSCode - plugins e dicas
 
- ##Banco de Dados
+ #Banco de Dados
  - O SQlite
  - Segurança de dados
  - Responsabilidades
  - SQL - Structured Query Language: Criar, Consultar, Atualizar, Deletar
  - Tabelas - Entidades - Relações: Colunas e linhas
 
-##Back-end
+#Back-end
  - Responsabilidades
     • Preparar os pedidos ( Regras de Negócio )
     • Receber pedidos do cliente
